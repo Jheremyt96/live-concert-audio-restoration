@@ -38,3 +38,5 @@ Python (NumPy, SciPy, librosa, pyloudnorm, pedalboard) · audio-separator / UVR 
 ---
 
 The audio and the code are private because the recording belongs to the client. I'm happy to walk through the process on a call.
+
+© 2026 Jheremyt Salazar. All rights reserved.
